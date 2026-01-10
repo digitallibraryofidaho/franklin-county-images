@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: https://digitallibraryofidaho.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: 
+baseurl: /franklin-county-images
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 
@@ -23,9 +23,9 @@ title: Franklin County Images
 tagline: Franklin County Photographs, Portraits, and Ephemera.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Franklin County Images is a digital collection created by Larsen-Sant Public Library of historic photographs, portraits, and ephemera documenting the people, places, and everyday life in Southeastern Idaho."
+description: "Franklin County Images is a digital collection created by Larsen-Sant Public Library consisting of historic photographs, portraits, and ephemera documenting the people, places, and everyday life in Southeastern Idaho."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; regional history;
+keywords: idaho; regional history
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
